@@ -1,0 +1,25 @@
+body{
+    background-color: #8F3427;
+}
+
+header{
+    background-color: #CCB3AF;
+    border-radius: 10%;
+}
+
+article{
+    background-color: #FFE0DB;
+    border-radius: 5px;
+}
+
+p{
+    color: #8F3427;
+}
+
+h1{
+    color: #8F3427
+}
+
+h3{
+    color:#8F3427
+}
